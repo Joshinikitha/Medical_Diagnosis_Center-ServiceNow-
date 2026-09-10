@@ -2,6 +2,11 @@
 A ServiceNow-based Diagnostic Test Center Portal built with Service Portal to simplify diagnostic test discovery, appointment booking, slot management, payments, reporting, notifications, and role-based healthcare administration.
 Diagnostic Test Center Portal
 
+
+Access my demo link:
+https://drive.google.com/file/d/1nZYS3ciW2QUOlqmOfZrqKZxr4HoCUzlB/view?usp=sharing
+
+
 The Diagnostic Test Center Portal is a custom application built on the ServiceNow platform using Service Portal. It helps patients find diagnostic tests, book appointments, arrange sample collection, complete payments, and track their medical reports in one place.
 
 🚀 Features
